@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from 'react';
+import React, { useState } from 'react';
 
 function Example() {
   const [buttonText, setButtonText] = useState('Click me!');
